@@ -5,9 +5,9 @@
 
 #define STOP_PIN 11		// blue wire
 #define GO_PIN 12	 	// green wire
-#define LEFT_PIN 15		// purple wire
+#define LEFT_PIN 15		// green wire
 #define RIGHT_PIN 18		// purple wire
-#define RECENTER_PIN 13		// black wire
+#define RECENTER_PIN 13		// yellow wire
 
 #define SHAVEOFF_SIDES 200
 #define GROUND_SAFETY 20
